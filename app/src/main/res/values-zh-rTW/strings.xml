@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">簡單掃地</string>
+    <string name="app_systemram">系統記憶體:</string>
+    <string name="app_ram">剩餘記憶體:</string>
+    <string name="clear_but">掃除</string>
+    <string name="clear_out">清理:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1462903798915135/9620407791</string>
+
+</resources>

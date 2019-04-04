@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClearMemoryActivity</string>
+    <string name="app_systemram">SystemRAM</string>
+    <string name="app_ram">Remaining memory</string>
+    <string name="clear_but">Clear</string>
+    <string name="clear_out">Cleaned up:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1462903798915135/9620407791</string>
+</resources>
